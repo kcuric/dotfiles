@@ -47,11 +47,14 @@ syntax on
 let g:python_highlight_all = 1
 colorscheme gruvbox
 
-" 3. PRIJEDLOZI NAREDBI ============================================================
+" 3. PRIJEDLOZI NAREDBI  I AUTOCOMPLETE ============================================
 
 set wildmenu                          " Stisnes TAB i prikaze ti prijedloge
 set wildchar=<TAB>
 set wildmode=list:longest
+
+filetype plugin on
+set omnifunc=syntaxcomplete#Complete
 
 " 4. ISKLJUCI ZVUCNE OBAVIJESTI ====================================================
 
@@ -59,7 +62,7 @@ set noerrorbells
 set visualbell
 
 " 5. PRECACI ======================================================================= 
-ab nr NERDTree
+ab nt NERDTree
 
 map <C-h> <C-w>h
 map <C-j> <C-w>j
