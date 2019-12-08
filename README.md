@@ -1,5 +1,5 @@
 # My Configuration Files (.files)
-Making this primarily as a reminder to myself. Great amount of inspiration for all of these came from Luke Smiths Github (https://github.com/LukeSmithxyz), as well as his YouTube account (https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA).
+Making this primarily as a reminder for myself. Great amount of inspiration for all of these came from Luke Smiths Github (https://github.com/LukeSmithxyz), as well as his YouTube account (https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA).
 ## 🔥 Vim
 ### .vimrc
 Currently using **Vundle** as a plugin manager. List of current plugins:
