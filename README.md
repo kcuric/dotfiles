@@ -12,11 +12,11 @@ Currently using **Vundle** as a plugin manager. List of current plugins:
 - https://github.com/mattn/emmet-vim
 - https://github.com/terryma/vim-multiple-cursors
 - https://github.com/dense-analysis/ale
-## 🤖 Bash
+## 🤖 ZSH
 ### .bashrc
 Currently in a complete chaos.
 ### .bash_profile
 Currently in somewhat of a complete chaos.
 
-## 📂 Ranger
+## 📂 LF
 Work in progress. 👷
